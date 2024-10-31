@@ -1,0 +1,259 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Price Bands for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-03-25 08:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:45
+msgid "Add New"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:44
+msgid "Add New Price Band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:43
+msgid "All Price Bands"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create a price band and assign it to a product or variation. The product or "
+"variation pricing will now inherit the price band pricing. Update the "
+"pricing on a price band and all assigned products/variations will update to "
+"the new price."
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-columns__premium_only.php:52
+msgid "Date"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:33
+msgid ""
+"Download template or data below, making any required changes to your price "
+"band data you can reimport it using the form below"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:47
+msgid "Edit Price Band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:43
+msgid "Export Price Bands"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:63
+msgid "Export Product Assignment"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:41
+msgid ""
+"Export using the link below, edit the existing data or add new price bands "
+"on new rows, if you are making changes enter '1' into one of the "
+"new/update/trash columns. If adding a new price band you don't need to enter "
+"an ID as this will be automatically set upon import. If you aren't making "
+"any changes to a price band row then leave those 3 columns blank. Once done "
+"upload the file and import."
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:61
+#, php-format
+msgid ""
+"Export using the link below, edit the price band column with your required "
+"price band id, the price band id is shown for each price band on the <a "
+"href=\"%s\">price bands</a> page. To remove a price band from a product set "
+"the price band column to empty for that row. Once done upload the file and "
+"import."
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:54
+msgid "Featured Image"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-columns__premium_only.php:264
+msgid "Filter by price band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:62
+msgid "Filter price band list"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://nplugins.com/"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-columns__premium_only.php:51
+msgid "ID"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:31
+msgid "Import & Export"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:135
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:349
+msgid "Import Results"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:58
+msgid "Insert into price band"
+msgstr ""
+
+#. Author of the plugin
+msgid "N Plugins"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:46
+msgid "New Price Band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-product-fields.php:69
+#: admin/class-price-bands-for-woocommerce-bulk-actions__premium_only.php:45
+msgid "No price band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:52
+msgid "Not found"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:53
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:42
+msgid "Parent Price Band:"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:36
+msgctxt "Post Type General Name"
+msgid "Price Bands"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:37
+msgctxt "Post Type Singular Name"
+msgid "Price Band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:39
+#: admin/class-price-bands-for-woocommerce-post-types.php:68
+#: admin/class-price-bands-for-woocommerce-bulk-actions__premium_only.php:41
+#: admin/class-price-bands-for-woocommerce-columns__premium_only.php:192
+msgid "Price Band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:40
+msgid "Price Band Archives"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:41
+msgid "Price Band Attributes"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:60
+msgid "Price band list"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:61
+msgid "Price band list navigation"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:38
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:39
+msgid "Price Bands"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:69
+msgid "Price bands for products"
+msgstr ""
+
+#. Name of the plugin
+msgid "Price Bands for WooCommerce"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-meta-boxes.php:29
+msgid "Pricing"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:59
+msgid "Product Assignment"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-meta-boxes.php:51
+#: admin/class-price-bands-for-woocommerce-columns__premium_only.php:49
+msgid "Regular Price"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-product-fields.php:88
+#: admin/class-price-bands-for-woocommerce-product-fields.php:94
+msgid "Regular: "
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:56
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:279
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:456
+msgid "rows successfully imported, see results below"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:287
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:464
+msgid "rows unsuccessfully imported, see results below"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-meta-boxes.php:54
+#: admin/class-price-bands-for-woocommerce-columns__premium_only.php:50
+msgid "Sale Price"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-product-fields.php:94
+msgid "Sale: "
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:51
+msgid "Search Price Band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:55
+msgid "Set featured image"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:295
+#: admin/class-price-bands-for-woocommerce-import-export__premium_only.php:472
+msgid ""
+"Sorry the import failed, no changes have been made. The file uploaded is "
+"either not in CSV format or does not contain the required columns."
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:48
+msgid "Update Price Band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:59
+msgid "Uploaded to this price band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:57
+msgid "Use as featured image"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-post-types.php:49
+#: admin/class-price-bands-for-woocommerce-post-types.php:50
+msgid "View Price Band"
+msgstr ""
+
+#: admin/class-price-bands-for-woocommerce-bulk-actions__premium_only.php:44
+msgid "— No change —"
+msgstr ""

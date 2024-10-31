@@ -1,0 +1,9 @@
+#pricing label {
+	width: 150px;
+	vertical-align: middle;
+	display: inline-block;
+}
+
+#pricing input {
+	width: 150px;
+}
